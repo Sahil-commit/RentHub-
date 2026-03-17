@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-WTF
+PyMySQL
+Flask-Bcrypt
+Werkzeug
+email_validator
+stripe
